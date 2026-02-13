@@ -51,11 +51,6 @@ File: `analysis.ipynb`
 * Segment-wise Sales distribution
 * Customer profitability insights
 
-## Dashboard Preview
-
-<p align="center">
-  <img src="superstore_dash.gif" width="800">
-</p>
 
 ## Business Insights Generated
 
