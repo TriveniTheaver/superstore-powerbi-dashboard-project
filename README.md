@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./superstore_dash.gif" width="600" alt="Superstore Dashboard Animation">
+  <img src="./superstore_dash.gif" width="1000" alt="Superstore Dashboard Animation">
 </p>
 
 
