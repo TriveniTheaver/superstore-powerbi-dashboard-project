@@ -2,8 +2,6 @@
   <img src="./superstore_dash.gif" width="1000" alt="Superstore Dashboard Animation">
 </p>
 
-
-
 # Superstore Sales Analytics Dashboard
 
 ## Project Overview
