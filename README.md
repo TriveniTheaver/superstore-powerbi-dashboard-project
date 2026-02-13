@@ -1,6 +1,9 @@
 <p align="center">
   <img src="./superstore_dash.gif" width="100%" alt="Superstore Dashboard Animation">
 </p>
+<p align="center">
+  ![Superstore Dashboard](./superstore_dash.gif)
+</p>
 
 
 # Superstore Sales Analytics Dashboard
