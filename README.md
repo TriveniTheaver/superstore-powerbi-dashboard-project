@@ -71,5 +71,4 @@ superstore_dash.gif           # Dashboard preview
 ## Author
 
 **Triveni Theaver**
-Data Science Undergraduate | Aspiring Data Analyst
-GitHub | LinkedIn
+Data Science Undergraduate 
